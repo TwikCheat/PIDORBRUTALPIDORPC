@@ -1,0 +1,6 @@
+{
+  "SUPER_SECRET_KEY": {
+    "HWID": "SOME_COMPUTERS_HWID",
+    "expiry": "31.12.2024"
+  }
+}
